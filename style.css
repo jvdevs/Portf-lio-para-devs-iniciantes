@@ -80,3 +80,16 @@ section.topo-do-site .flex{
     color: white;
     margin: 40px 0;
 }
+.topo-do-site .img-topo-site img{
+    position: relative;
+    animation: flutuar 2s ease-in-out infinite alternate;
+}
+@keyframes flutuar{
+    0%{
+        top: 0;
+
+    }
+    100%{
+        top: 30px;
+    }
+}
