@@ -1,4 +1,4 @@
-# Portf-lio-para-devs-iniciantes
+# Portfolio-para-devs
 Criando meu portfólio pessoal, quem quiser pode utilizar como template
 
 <img src="images/tela.png" alt="">
