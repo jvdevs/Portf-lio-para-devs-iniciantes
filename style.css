@@ -281,7 +281,7 @@ footer .line-footer p a{
     color: white;
 }
 
-@media screen and(max-width: 1020px){
+@media screen and (max-width: 1020px){
 
     .flex{
         flex-direction: column-reverse;
