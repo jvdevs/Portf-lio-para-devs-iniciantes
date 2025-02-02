@@ -161,7 +161,7 @@ section.sobre .flex{
     text-align: justify;
 }
 
-.sobre .txt-sobre .btn-social button{
+.btn-social button{
     width: 60px;
     height: 60px;
     border-radius: 50%;
@@ -256,6 +256,31 @@ form .btn-enviar input{
     cursor: pointer;
     transition: .2s;
 }
+
+footer{
+    padding: 60px 4%;
+    box-shadow: 0px 0px 40px 10px rgba(255, 255, 255, 0.188);
+
+}
+footer .flex{
+    justify-content: space-between;
+
+}
+footer .line-footer{
+    padding: 20px 0; 
+
+}
+.borda{
+    border-top: 2px solid lime;
+}
+footer .line-footer p i{
+    color: lime;
+    font-size: 22px;
+}
+footer .line-footer p a{
+    color: white;
+}
+
 
 
 
